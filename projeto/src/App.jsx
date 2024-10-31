@@ -8,7 +8,10 @@ function App() {
   return (
     <main>
     <Sidebar />
+    <div className='Direita'>
     <SearchBar />
+    
+    </div>
     </main>
   )
 }

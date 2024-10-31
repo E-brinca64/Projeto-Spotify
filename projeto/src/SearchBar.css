@@ -1,4 +1,3 @@
-/* Reset para listas e links */
 ol, ul {
     list-style: none;
     padding: 0;
@@ -28,6 +27,8 @@ ol, ul {
     justify-content: space-between;
     background-color: #0f0f0f;
     padding: 10px 20px;
+    width: 101.563rem;
+    height: 76px;
   }
   
   /* Estilos das setas */
@@ -38,8 +39,6 @@ ol, ul {
   .arrow {
     padding: 10px;
   }
-  
-  /* Estilos da barra de busca */
   .SearchBar {
     display: flex;
     align-items: center;
